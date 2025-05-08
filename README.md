@@ -1,6 +1,6 @@
 
 
-# Netflix Content Analysis Dashboard (powerbi)
+# Netflix Content Analysis Dashboard (POWER-BI)
 
 This repository contains a Power BI dashboard project that analyzes Netflix content over time, highlighting trends in content genres, days when new content is added, and more.
 
